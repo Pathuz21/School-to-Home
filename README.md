@@ -1,4 +1,4 @@
-Here’s a sample README.md for your School-to-Home project:
+
 
 # School-to-Home App
 
@@ -112,4 +112,3 @@ Acknowledgments
 6. **License**: Information about the project’s license.
 7. **Authors**: Credits the creator(s) of the project.
 
-Let me know if you need any modifications!
